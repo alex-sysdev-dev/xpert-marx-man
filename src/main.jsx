@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import '../portfolio-data.js';
 import '../portfolio-hero.jsx';
 import '../portfolio-sections.jsx';
 import '../tweaks-panel.jsx';
