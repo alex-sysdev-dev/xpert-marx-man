@@ -241,7 +241,7 @@ function About() {
             </div>
           </div>
           <div className="headshot-wrap" data-reveal data-d="1">
-            <img src="uploads/Headshot.JPG" alt="Alex Aguilar" className="headshot" />
+            <img src="/uploads/Headshot.JPG" alt="Alex Aguilar" className="headshot" />
           </div>
         </div>
       </div>
